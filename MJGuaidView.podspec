@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary      = "引导页"
 
   s.description  = <<-DESC
-  引导页...
+                   DESC引导页...
                    DESC
 
   s.homepage     = "https://github.com/LiHongGui/MJGuaidView.git"
