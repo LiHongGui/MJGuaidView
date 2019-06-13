@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/LiHongGui/MJGuaidView.git"
  
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   s.author             = { "MichaelLi" => "1045359337@qq.com" }
