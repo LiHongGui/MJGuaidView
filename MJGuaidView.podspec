@@ -2,11 +2,11 @@ Pod::Spec.new do |s|
 
 
   s.name         = "MJGuaidView"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "引导页"
 
   s.description  = <<-DESC
-  DESC引导页...
+  DESC引导页...(pod下来,请删除AppDelegate.h)
                    DESC
 
   s.homepage     = "https://github.com/LiHongGui/MJGuaidView.git"
