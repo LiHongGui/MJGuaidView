@@ -14,7 +14,6 @@ UICollectionViewDelegateFlowLayout>
 
 @property (nonatomic, strong) UIPageControl* pageControl;
 @property (nonatomic, strong) UICollectionView* collectionView;
-@property(nonatomic,strong) AFHTTPSessionManager *manager;
 @property (nonatomic, strong) UIButton* hiddenBtn;
 
 @property (nonatomic, strong) NSDictionary* property;

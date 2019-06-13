@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "MJGuaidView"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "引导页"
 
   s.description  = <<-DESC
